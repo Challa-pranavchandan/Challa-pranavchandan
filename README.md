@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranav+Chandan+👋;Frontend+Developer+%7C+Web+Enthusiast;Building+cool+things+with+code+🚀;Always+learning%2C+always+growing+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranav+Chandan+%F0%9F%91%8B;Frontend+Developer+%7C+Web+Enthusiast;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -52,10 +52,8 @@ const pranavChandan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Challa-pranavchandan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Challa-pranavchandan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Challa-pranavchandan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Challa-pranavchandan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -71,7 +69,7 @@ const pranavChandan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Challa-pranavchandan&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Challa-pranavchandan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
